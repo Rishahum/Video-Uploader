@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(126, 116, 116);
+}
+h1{
+    color: red;
+}
+.caption{
+    margin-left: 20px;
+    margin-right: 20px;
+}
